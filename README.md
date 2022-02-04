@@ -1,5 +1,6 @@
 # Predict the Market 
 
+
 ## Your Task
 
 We have provided you multiple market datasets from NSE (National Stock Exchange), BSE (Bombay Stock Exchange), Bitcoin (BTC/INR), S&P 500 (US Markets).
@@ -20,11 +21,13 @@ The aim is to predict the future, have fun and make money while we do it :)
 Your performance is evaluated based on the out of time results you publish and the quality of your code and the approach taken. Please also publish train and test performance results and keep an out of time set which is never shown or used by the model at the time of training. 
 
 
+
 ## Your Submission (How do I submit)
 
 You submit your final code by creating a branch and submitting it as a pull request to the main branch
 Put your name as the branch name and in the commit message you can put your Email ID and as an additional optional item a base64 encoding of your mobile number. eg. (911111000 becomes OTExMTExMDAw). In case you are not comfortable putting your encoded mobile number you can just put in your email and name. 
 In the pull request please have a readme file called results.md with published results 
+
 
 
 ## Our Philosophy for this Interview 
