@@ -30,6 +30,10 @@ In the pull request please have a readme file called results.md with published r
 
 <br />
 
+## Questions and Issues?
+
+In case you have any questions or issues just simply put it up as an issue in the github issues section [here](https://github.com/Fluid-AI/marketprophecy/issues)
+
 ## Our Philosophy for this Interview 
 Our philosophy for recruiting is why make it a process that doesn't add value in everyones lives! 
 It doesn't need to always be a process of making people do things that doesn't help them in their futures.
