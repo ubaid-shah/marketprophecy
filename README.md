@@ -25,6 +25,7 @@ Your performance is evaluated based on the out of time results you publish and t
 ## Your Submission (How do I submit)
 
 You submit your final code by creating a fork of this project and submitting it as a pull request to the main branch of this repository. You can follow an example [Here](https://jarv.is/notes/how-to-pull-request-fork-github/)
+Also see a sample pull request [here](https://github.com/Fluid-AI/marketprophecy/pull/2)
 
 Put your name as the pull request heading and in the details you can put your Email ID and as an additional optional item a base64 encoding of your mobile number. eg. (911111000 becomes OTExMTExMDAw). In case you are not comfortable putting your encoded mobile number you can just put in your email and name. 
 In the pull request please have a readme file called results.md with published results. 
