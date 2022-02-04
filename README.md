@@ -2,7 +2,7 @@
 
 ## Your Task
 
-We have provided you multiple market datasets from NSE (National Stock Exchange), BSE (Bombay Stock Exchange), Bitcoin (BTC/INR), S&P 500 (US Markets).
+We have provided you multiple market datasets from NSE (National Stock Exchange), Bitcoin (BTC/USD), Nasdaq Composite (US Markets).
 
 Your goal is to build an algorithm / model which is able to predict the market as accurately as possible (exciting!)
 You can choose the market of your choice from above to predict for or you can predict for multiple markets as well (The choice is yours depending on which one excites you most)
