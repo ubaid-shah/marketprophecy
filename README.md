@@ -2,9 +2,26 @@
 
 ## Your Task
 
-We have provided you multiple market datasets
+We have provided you multiple market datasets from NSE (National Stock Exchange), BSE (Bombay Stock Exchange), Bitcoin (BTC/INR), S&P 500 (US Markets).
 
-The aim is to predict the future and make money while we do it :)
+Your goal is to build an algorithm / model which is able to predict the market as accurately as possible (exciting!)
+You can choose the market of your choice from above to predict for or you can predict for multiple markets as well (The choice is yours depending on which one excites you most)
+
+You also have freedom to choose the time period you predict forward for (you know your model best, so choose a time period that shows your models performance best)
+That means anything from next day predictions, to next month, to next year!
+
+You can choose any libraries of your choice and any language of your choice (Python preferred) 
+
+The aim is to predict the future, have fun and make money while we do it :)
+
+## Your Performance Evaluation 
+
+Your performance is evaluated based on the out of time results you publish in your code
+
+## Your Submission (How do I submit)
+
+
+
 
 
 ## Our Philosophy for this Interview 
