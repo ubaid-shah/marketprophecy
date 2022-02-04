@@ -1,7 +1,5 @@
 # Predict the Market 
 
-<br />
-
 ## Your Task
 
 We have provided you multiple market datasets from NSE (National Stock Exchange), BSE (Bombay Stock Exchange), Bitcoin (BTC/INR), S&P 500 (US Markets).
